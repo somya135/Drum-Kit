@@ -1,2 +1,2 @@
 # Drum-Kit
-Allows playing different instruments using button and keyboard. 
+A frontend website which allows playing of different instruments using buttons and keyboard. 
